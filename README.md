@@ -1,0 +1,2 @@
+# AWS_DockerInAws_DeployJavaSpringBootToAwsFargateAndEcs
+hands on codes following instructor's code
